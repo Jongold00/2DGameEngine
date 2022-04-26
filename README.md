@@ -6,3 +6,5 @@ Game engine progresses in architechure and capabilities from Breakout to Platfor
 Each game can be compiled by navigating to the games base directory and running ```make all```
 
 Each game can be played by navigating to the games base directory and running ```./bin/*name of executable* ```
+
+the Pied.io folder contains reworked versions of the other game, updating them to the more advanced engine
