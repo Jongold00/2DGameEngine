@@ -1,0 +1,45 @@
+-- Who worked on this lab? Include names and GitHub usernames.
+
+Ishani Kapoor, Github@ishaniKapoor
+Jon Gold, Github@JonGold00
+Elena Kosowski, Github@lennieok
+Alexander Chen, Github@AlexECA
+
+-- Did you implement any extentions? If so, which ones, who implemented each, and how can they be tried out?
+No extensions on milestone
+
+
+-- Did you use any external resources? If so, cite them below.
+
+
+-- Did you use any code or resources from previous assignments? If so, list below.
+
+We used code from our previous labs:
+Resource Manager: cs4850-lab-resources, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/
+TinyMath: cs4850-lab-math, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/
+SDL Graphics Implementation: cs4850-lab-setup, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/
+Framerate: cs4850-lab-framerate, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/
+
+-- Did you collaborate with any other students/TAs/Professors? If so, list below.
+
+Only team members
+
+-- Describe your approach to implementing the lab.
+
+We divided each component of the game between the four of us and then worked 
+together when there was overlap in components such as ball, paddle, block
+collision.
+
+-- How many hours did it take you to complete this lab?
+
+10
+
+-- (Optional) What was your favorite part of the lab?
+
+
+
+-- (Optional) How would you improve the lab?

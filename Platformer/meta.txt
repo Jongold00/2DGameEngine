@@ -1,0 +1,64 @@
+-- Who worked on this lab? Include names and GitHub usernames.
+Ishani Kapoor, Github@ishaniKapoor
+Jon Gold, Github@JonGold00
+Elena Kosowski, Github@lennieok
+Alexander Chen, Github@AlexECA
+
+
+Controls for level editor: 
+
+D - Enter Deletion / Creation mode
+C - Exit Deletion / Creation mode
+Click to delete. Click and hold a number to add an object.
+Hold 0 - Drop a player
+Hold 1 - Drop a block
+Hold 2 - Drop a flag
+Hold 3 - Drop a collectable
+Hold 4 - Drop an enemy
+S - Save to new
+
+
+
+-- Did you implement any extentions? If so, which ones, who implemented each, and how can they be tried out?
+
+No extensions on milestone
+
+-- Did you use any external resources? If so, cite them below.
+
+LevelLoader.cpp:
+file IO code adopted from sample on Stack Overflow
+https://stackoverflow.com/questions/20739453/using-getline-with-file-input-in-c
+
+-- Did you use any code or resources from previous assignments? If so, list below.
+
+We re-used Project Breakout code that we wrote.
+We used code from our previous labs:
+Resource Manager: cs4850-lab-resources, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/
+TinyMath: cs4850-lab-math, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/
+SDL Graphics Implementation: cs4850-lab-setup, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/
+Framerate: cs4850-lab-framerate, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/
+Anything Components related: cs4850-lab06-components, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/ 
+
+
+-- Did you collaborate with any other students/TAs/Professors? If so, list below.
+No!
+
+
+-- Describe your approach to implementing the lab.
+
+Divided all the work in the lab among the four of us, then had group coding sessions to fix bugs or help one another
+
+-- How many hours did it take you to complete this lab?
+
+16
+
+-- (Optional) What was your favorite part of the lab?
+
+
+
+-- (Optional) How would you improve the lab?
