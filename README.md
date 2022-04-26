@@ -5,4 +5,4 @@ Game engine progresses in architechure and capabilities from Breakout to Platfor
 
 Each game can be compiled by navigating to the games base directory and running ```make all```
 
-Each game can be played by navigating to the games base directory and running ```./bin/ *name of executable* ```
+Each game can be played by navigating to the games base directory and running ```./bin/*name of executable* ```
