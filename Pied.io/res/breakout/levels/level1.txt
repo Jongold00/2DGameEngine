@@ -1,0 +1,4 @@
+r:2
+c:10
+X X X X X X X X X X
+X X X X X X X X X X

@@ -1,0 +1,70 @@
+SUMMARY
+Our game is based on --> https://diep.io/
+Diep.io is a multiplayer action game available for web browsers, Android, and iOS. Players control tanks and earn points by destroying shapes and killing other players in a 2D arena. 
+[adapted from Wikipedia]
+
+GAME TITLE: Pied.oi
+Our version of the game is a single-player version where the player controls a tank and earns points by destroying shapes that are collectibles. 
+The player kills enemies as well, where these ones are AI agents instead of other players. 
+
+** MILESTONE 2 **
+Must [ ] [ ] [ ]
+    - Player spawns into world with 4 directional movement [ ] 
+        --> (Force based with WASD)
+    - The player shoots bullets [ ] 
+        --> Player holds left mouse button to shoot
+    - Handle collisions with collectables / triangle things [ ]
+        --> Destroyed with bullets / body collision
+        --> Destroying a collectable gives you XP
+        --> Lowers player health on collision
+
+Should [ ] [ ] 
+    - Player’s gun / shooting direction follows the mouse
+        --> Gun rotates around the body of the tank according to mouse pos
+    - Firing rate / cooldown time on shoot
+
+Could [ ] [ ] 
+    - Spawn triangles randomly to inhabit the screen
+        --> Variable number of triangles spawned per second
+    - Health system / UI for player / triangle
+        --> Player health goes down if the player touches a triangle.
+        --> Player loses if their health reaches 0.
+        --> Triangle health goes down if the player shoots the triangle
+
+Won't [ ] [ ] 
+    - Multiplayer
+        --> The game will be a single-player game (with potential AI)
+    - Animations
+        --> Simple animations on the tank / collectables
+
+** MILESTONE 3 **
+Must [ ] [ ] [ ] 
+    - Enemy that shoots back
+        --> Follows player position and shoots
+    - Camera side scrolling
+        --> Scrolling in 4 directions (up, down, left, right)
+    - A player objective / boss enemy
+        --> Boss enemy spawns after a certain amount of time
+        --> UI to show time until boss spawn
+        --> If you kill boss, you win the game
+
+Should [ ] [ ] 
+    - Player can upgrade their stats
+        --> Simple clickable UI to show current XP and available upgrade points
+        --> Click a box to spend an upgrade point and improve stats
+    - Music and/or SFX
+        --> Background music, shooting SFX, death SFX, Win/Lose SFX, upgrade SFX
+
+Could [ ] [ ] 
+    - Animations
+        --> Simple animations on the tank / collectables
+    - New level editor design
+        --> Allow the player to tweak game numbers (Player health, enemy health, spawn rate, speed etc.)
+
+Won't [ ] [ ]
+    - Multiple Levels
+    - Multiplayer
+
+Extensions [ ] 
+    - Terrain / walls to hide behind (Bruno Bernardo)
+        --> The player can hide behind the walls and avoid being hit and lose health

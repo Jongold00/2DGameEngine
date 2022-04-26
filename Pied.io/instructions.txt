@@ -1,0 +1,19 @@
+Put any instructions needed to play your game and access required features and extensions here.
+
+
+Move the character with WASD
+
+Aim using the mouse, and shoot with left click
+
+destroy Apples by shooting them or bumping into them, awarding you EXP
+
+Spend your available points by pressing 1-4
+
+1 - More Health
+2 - More Speed
+3 - Bigger Bullets
+4 - More Attack Speed
+
+Cupcake enemies can shoot you and chase you so you have to stay away from them
+
+Boss Enemy can be killed and will result in instant game won

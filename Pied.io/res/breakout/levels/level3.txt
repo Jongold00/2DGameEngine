@@ -1,0 +1,7 @@
+r:5
+c:15
+. . X . . . . X . . . . X
+. X X X . . X X X . . X X X
+X X X X X X X X X X X X X X X
+. X X X . . X X X . . X X X
+. . X . . . . X . . . . X

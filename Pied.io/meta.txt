@@ -1,0 +1,52 @@
+-- Who worked on this lab? Include names and GitHub usernames.
+
+Ishani Kapoor, Github@ishaniKapoor
+Jon Gold, Github@JonGold00
+Elena Kosowski, Github@lennieok
+Bruno Bernardo, Github@BrunoBA91
+
+
+-- Did you implement any extentions? If so, which ones, who implemented each, and how can they be tried out?
+
+No
+
+-- Did you use any external resources? If so, cite them below.
+
+No
+
+-- Did you use any code or resources from previous assignments? If so, list below.
+
+We re-used Project Breakout code that we wrote.
+We re-used Project Platformer code that we wrote.
+We used code from our previous labs:
+Resource Manager: cs4850-lab-resources, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/
+TinyMath: cs4850-lab-math, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/
+SDL Graphics Implementation: cs4850-lab-setup, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/
+Framerate: cs4850-lab-framerate, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/
+Anything Components related: cs4850-lab06-components, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/ 
+StateTransitions, StateComponent, ObjectProximity code
+cs4850-lab08-states, orginally adapted
+from the lab designed by Michael D. Shah.http://www.mshah.io/
+
+-- Did you collaborate with any other students/TAs/Professors? If so, list below.
+
+No
+
+-- Describe your approach to implementing the lab.
+
+Made class diagrams to describe difficult relationships between data and implemented it
+
+-- How many hours did it take you to complete this lab?
+
+40 hours
+
+-- (Optional) What was your favorite part of the lab?
+
+
+
+-- (Optional) How would you improve the lab?
